@@ -439,13 +439,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2384KU85YT;
+				DEVELOPMENT_TEAM = 5ES6HGC5J6;
 				INFOPLIST_FILE = UnityPersonalThemeSwitcher/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bzart.UnityPersonalThemeSwitcher;
+				PRODUCT_BUNDLE_IDENTIFIER = com.staticdreams.UnityPersonalThemeSwitcher;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -456,13 +456,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2384KU85YT;
+				DEVELOPMENT_TEAM = 5ES6HGC5J6;
 				INFOPLIST_FILE = UnityPersonalThemeSwitcher/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bzart.UnityPersonalThemeSwitcher;
+				PRODUCT_BUNDLE_IDENTIFIER = com.staticdreams.UnityPersonalThemeSwitcher;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

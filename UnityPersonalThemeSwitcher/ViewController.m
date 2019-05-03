@@ -11,7 +11,7 @@
 
 @implementation ViewController
 
-static NSString *defaultUnityPath = @"/Applications/Unity/Unity.app/Contents/MacOS/Unity";
+static NSString *defaultUnityPath = @"/Applications/Unity/Hub/Editor/2019.1.1f1/Unity.app/Contents/MacOS/Unity";
 
 - (void)viewDidLoad {
 	[super viewDidLoad];
